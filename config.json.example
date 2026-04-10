@@ -1,0 +1,11 @@
+{
+  "module": "proxy_manager",
+  "default_type": "socks5",
+  "check_after_import": true,
+  "remove_invalid_after_check": false,
+  "assign_strategy": "manual",
+  "health_check": {
+    "timeout_sec": 10,
+    "max_retries": 1
+  }
+}
