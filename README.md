@@ -34,6 +34,14 @@
 4. Запустите проверку.
 5. Используйте рабочий пул в аккаунтах и модулях.
 
+## В какие сценарии это обычно переходит
+
+- [Рассылка в ЛС](https://github.com/Deskgram-2/telegram-direct-messaging-deskgram), если нужен стабильный outreach по аккаунтной сетке;
+- [Инвайт](https://github.com/Deskgram-2/telegram-invite-tool-deskgram), если база и аккаунты уже готовы к приглашениям;
+- [Сбор аудитории](https://github.com/Deskgram-2/telegram-audience-parser-deskgram), если вы сначала строите источник данных;
+- [Вступление в группы](https://github.com/Deskgram-2/telegram-join-groups-deskgram), если инфраструктура нужна для аккаунтной активности;
+- [Панель аккаунтов](https://github.com/Deskgram-2/telegram-account-manager-deskgram), если хотите сначала связать рабочие прокси с нужной группой аккаунтов.
+
 ## Интерфейс раздела
 
 ### Таблица прокси
@@ -70,6 +78,9 @@
 - [Главный хаб Deskgram 2](https://github.com/Deskgram-2/deskgram-2-telegram-automation)
 - [Рассылка в ЛС](https://github.com/Deskgram-2/telegram-direct-messaging-deskgram)
 - [Инвайт](https://github.com/Deskgram-2/telegram-invite-tool-deskgram)
+- [Сбор аудитории](https://github.com/Deskgram-2/telegram-audience-parser-deskgram)
+- [Вступление в группы](https://github.com/Deskgram-2/telegram-join-groups-deskgram)
+- [Панель аккаунтов](https://github.com/Deskgram-2/telegram-account-manager-deskgram)
 
 ## FAQ
 
