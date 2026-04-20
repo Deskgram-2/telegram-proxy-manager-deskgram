@@ -1,15 +1,15 @@
-# Proxy Manager для Telegram в Deskgram 2
+﻿# Proxy Manager для Telegram в Deskgram 2
 
 ![Proxy Table](assets/screenshots/proxy__table__ru.png)
 
 `Управление прокси` — это инфраструктурный раздел Deskgram 2 для хранения, массового добавления и проверки прокси, используемых Telegram-аккаунтами. Он нужен, когда вы строите устойчивую рабочую среду под рассылки, инвайт, парсинг и другие сценарии.
 
-[Главный хаб Deskgram 2](https://github.com/Deskgram-2/deskgram-2-telegram-automation) · [Сайт](https://deskgram2.com/) · [Telegram-бот](https://t.me/DG2welcomebot) · [Web preview](https://deskgram2.com/web-preview)
+[Главный хаб Deskgram 2](https://github.com/Deskgram-2/deskgram-2-telegram-automation) · [Сайт](https://deskgram2.com/) · [Telegram-бот](https://t.me/DG2welcomebot) · [Web preview](https://deskgram2.com/web-preview?path=%2Fapp-demo%2F&lang=ru)
 ## Интерактивный Web Preview
 
-[![Interactive Demo](https://img.shields.io/badge/DEMO-Try_in_Browser-brightgreen?style=for-the-badge&logo=google-chrome)](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fproxy)
+[![Interactive Demo](https://img.shields.io/badge/DEMO-Try_in_Browser-brightgreen?style=for-the-badge&logo=google-chrome)](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fproxy&lang=ru)
 
-Попробовать модуль в браузере: [Открыть веб-превью](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fproxy)
+Попробовать модуль в браузере: [Открыть веб-превью](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fproxy&lang=ru)
 
 
 
@@ -128,4 +128,5 @@
 - [Главный хаб Deskgram 2](https://github.com/Deskgram-2/deskgram-2-telegram-automation)
 - [Сайт Deskgram 2](https://deskgram2.com/)
 - [Telegram-бот Deskgram 2](https://t.me/DG2welcomebot)
-- [Web preview](https://deskgram2.com/web-preview)
+- [Web preview](https://deskgram2.com/web-preview?path=%2Fapp-demo%2F&lang=ru)
+
